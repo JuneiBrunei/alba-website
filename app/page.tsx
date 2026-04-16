@@ -9,37 +9,37 @@ const PORTFOLIO = [
     id: 1,
     category: "Fashion Shoots",
     title: "Undone",
-    img: "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&q=80",
+    img: "/images/first.jpg",
   },
   {
     id: 2,
     category: "Creative Direction",
     title: "Estructura",
-    img: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    img: "/images/fourth.jpg",
   },
   {
     id: 3,
     category: "Visual Projects",
     title: "Lumière",
-    img: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800&q=80",
+    img: "/images/second.jpg",
   },
   {
     id: 4,
     category: "Fashion Shoots",
     title: "Meridian",
-    img: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80",
+    img: "/images/fifth.jpg",
   },
   {
     id: 5,
     category: "Creative Direction",
     title: "Tensione",
-    img: "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80",
+    img: "/images/sixth.jpg",
   },
   {
     id: 6,
     category: "Visual Projects",
     title: "Nuance",
-    img: "https://images.unsplash.com/photo-1550614000-4895a10e1bfd?w=800&q=80",
+    img: "/images/seventh.jpg",
   },
 ];
 
@@ -878,7 +878,7 @@ export default function AlbaMimmi() {
       <section className="about fade-in" id="about">
         <div className="about-img-wrap">
           <img
-            src="https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=900&q=85"
+            src="/images/third.png"
             alt="Alba Mimmi"
           />
           <div className="about-img-accent" />
