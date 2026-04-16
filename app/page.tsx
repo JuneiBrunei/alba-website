@@ -867,7 +867,7 @@ export default function AlbaMimmi() {
         </div>
         <div className="hero-right">
           <img
-            src="/images/alba-hero.png"
+            src="/images/alba-hero-2.png"
             alt="Alba Mimmi — Creative Stylist"
           />
           <div className="hero-overlay" />
