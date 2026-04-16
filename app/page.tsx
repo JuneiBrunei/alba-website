@@ -1037,12 +1037,12 @@ export default function AlbaMimmi() {
         </div>
         <div className="contact-right">
           <div className="location">Based in</div>
-          <div className="city serif">Milan</div>
-          <div className="city2 serif">& Rome</div>
+          <div className="city serif">Bologna</div>
+          <div className="city2 serif">Emilia Romagna</div>
           <div className="contact-social">
-            <a href="#">Instagram</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Editorial</a>
+            <a href="https://www.instagram.com/albamimmi">Instagram</a>
+            <a href="https://www.tiktok.com/login?redirect_url=https%3A%2F%2Fwww.tiktok.com%2F%40albamimmi&lang=en&enter_method=mandatory">Tik Tok</a>
+            <a href="https://www.youtube.com/@albamimmi">Youtube</a>
           </div>
         </div>
       </section>
@@ -1050,7 +1050,7 @@ export default function AlbaMimmi() {
       {/* FOOTER */}
       <footer>
         <span className="footer-logo serif">Alba Mimmi</span>
-        <span className="footer-copy">© 2025 — All rights reserved</span>
+        <span className="footer-copy">© 2026 — All rights reserved</span>
       </footer>
 
       {/* Scroll animations */}
