@@ -867,7 +867,7 @@ export default function AlbaMimmi() {
         </div>
         <div className="hero-right">
           <img
-            src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=1200&q=85"
+            src="/images/alba-hero.png"
             alt="Alba Mimmi — Creative Stylist"
           />
           <div className="hero-overlay" />
@@ -1047,14 +1047,7 @@ export default function AlbaMimmi() {
         </div>
       </section>
 
-      {/* FOOTER */}
-      <footer>
-        <span className="footer-logo serif">Alba Mimmi</span>
-        <span className="footer-copy">© 2025 — All rights reserved</span>
-      </footer>
-
-      {/* Scroll animations */}
-      <ScrollReveal />
+      
     </>
   );
 }
